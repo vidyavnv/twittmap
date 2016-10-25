@@ -9,3 +9,5 @@ ES_INDEX = 'twittmap'
 ES_TYPE = 'tweets'
 
 GMAP_KEY = 'AIzaSyCe3_nUSzR3ES6Im0nTGyIjen_imVOLpOs'
+
+FILTERS = ['sports', 'music', 'politics', 'business', 'entertainment', 'health', 'weather', 'art', 'india', 'fun']
